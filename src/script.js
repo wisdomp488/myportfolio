@@ -65,6 +65,9 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  // Add md:px-15 to the typing element
+  typingElement.classList.add('md:px-17');
+
   typeHeroText();
 });
 
