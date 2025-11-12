@@ -213,3 +213,4 @@ document.querySelectorAll('.project-card').forEach(card => {
 
 
 console.log("🚀 Welcome, fellow debugger! Let's build something amazing.");
+
